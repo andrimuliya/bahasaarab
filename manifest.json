@@ -1,37 +1,37 @@
 {
-  "name": "Bahasa Arab",
+  "name": "Bahasa Arab Daring",
   "short_name": "Bahasa Arab",
   "start_url": "https://bahasaarabdaring.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#25a186",
-  "description": "Belajar bahasa Arab online",
+  "theme_color": "#004b23",
+  "description": "Belajar Bahasa Arab Online",
   "icons": [{
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s48/Bahasa%2BArab%2BFavicon.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s72/Bahasa%2BArab%2BFavicon.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s96/Bahasa%2BArab%2BFavicon.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s144/Bahasa%2BArab%2BFavicon.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s168/Bahasa%2BArab%2BFavicon.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s192/Bahasa%2BArab%2BFavicon.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-g1hkRvGs7NI/XKcCrHoiopI/AAAAAAAACg4/3fBLHRhkV_wGWwQ4H4haGARwFag9MIVLgCLcBGAs/s320/bahasa-arab-icon.png",
+    "src": "https://1.bp.blogspot.com/-PvDWGD5xpto/XT7Yt6TZQJI/AAAAAAAADLo/JCrYwUl8mNYcxL5O9ObiImWNOIfNcaGjwCLcBGAs/s512/Bahasa%2BArab%2BFavicon.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
